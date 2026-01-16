@@ -1,3 +1,4 @@
 car_defect-venv
 data
 *.pth
+__pycache__
