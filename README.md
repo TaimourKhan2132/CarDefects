@@ -29,7 +29,7 @@ The system is designed for high-performance inference on consumer hardware (e.g.
 
 ## 📂 Dataset Structure
 
-The dataset is a merged compilation of 6 raw sources, processed into a unified format.
+The dataset is a merged compilation of 6 raw sources, processed into a unified format with approx 30k images.
 
 **Class Mapping:**
 * 0: `broken_glass`
