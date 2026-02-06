@@ -9,3 +9,5 @@ tqdm
 torchsummary
 Pillow
 ipykernel
+streamlit
+grad-cam
